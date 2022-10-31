@@ -6,7 +6,7 @@ on:
       - main
   push:
     branches:
-      - main
+      - test_branch
 
 env:
   HF_ALLOW_CODE_EVAL: 1
